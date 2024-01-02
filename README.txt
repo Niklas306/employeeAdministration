@@ -1,6 +1,2 @@
-# employeeAdministration v1
-Project to administrate employees
-
-This Project is to administrate one or more employees with name, year of birth, home City and salary.
-v1 in german
-other languages following
+Projekt gibt die Möglichkeit Mitarbeiter mit Namen, Geburtsjahr, Wohnort und Gehalt anzulegen. Nach dem Erstellen wird eine einfache Textdatei im Projektverzeichnis erstellt.
+Es gibt ebenfalls die Möglichkeit diese Datei über einen eingebauten Knopf auszuwählen und zu löschen.
